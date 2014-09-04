@@ -7,3 +7,14 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+
+# Ignore all emacs backup files
+*~
+
+*.gz
+*.rar
+*.tar
+*.zip
+*.log
+.Trashes
+Thumbs.db

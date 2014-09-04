@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello World
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<img src="http://stackexchange.com/users/flair/1011150.png" width="208" height="58" alt="profile for Kinjal on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Kinjal on Stack Exchange, a network of free, community-driven Q&amp;A sites">
