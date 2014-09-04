@@ -8,6 +8,7 @@
 
 3. markdown cheat sheet
    https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+   http://blog.teamtreehouse.com/explaining-markdown
 
 4. A samlple jekyll blog starting point
    http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/
