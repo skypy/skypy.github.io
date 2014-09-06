@@ -87,4 +87,13 @@ When uninstallation process was fine, I again downloaded emacs and specified the
 
 `sudo apt-get install emacs23`
 
-All set to get started with Ubuntu 14.04!
+###### Fix Brightness control
+On Dell Inspiron, it is fn + f5/f6 to control brightness. Strangely the control was not working.
+[This](http://itsfoss.com/fix-brightness-ubuntu-1310/) blog has a simple instruction to fix it. I figured out video card model by the following command
+
+`lspci | grep VGA`
+
+Generally you could find either Intel or Nvidia. It was Intel for my system. So I followed instructions for Intel fix described in the blog.
+
+
+That is all! Time to get started with Ubuntu 14.04!
