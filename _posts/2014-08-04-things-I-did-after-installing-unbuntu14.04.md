@@ -22,8 +22,8 @@ Here is the memory map
 <img src="{{ site.baseurl }}/images/gp.png" alt="partition" style="width: 460px; height: 350px "/><br />
 
 ###### Revert to classic theme
-First thing which came to mind is to revert unity theme. I think it was ubuntu version 11 when unity was added
-but I still do not feel comfortable with it, I rather prefer classic old theme.
+First thing which came to mind is to revert unity theme. I think it was ubuntu version 11 when unity was added. I still do not feel
+comfortable with it, rather I prefer classic old theme.
 
 
 `sudo apt-get update`
@@ -83,7 +83,7 @@ so I have to downgrade emacs version. So to this first I removed comeplete emacs
 now run this command to make emacs didn't exist anymore
 `locate emacs`
 
-When uninstallation process was fine, I again download emacs and specified the version 23
+When uninstallation process was fine, I again downloaded emacs and specified the version 23
 
 `sudo apt-get install emacs23`
 
