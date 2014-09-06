@@ -36,3 +36,6 @@
 7. markdown supports html perfectly. note markdown treats html as it's superset.
 
 8. post excert - didn't work comepletely, for now just hardcoded <read more> link index.html
+
+9. Need to check updated domian configuration to make use of CDN
+https://github.com/blog/1715-faster-more-awesome-github-pages
