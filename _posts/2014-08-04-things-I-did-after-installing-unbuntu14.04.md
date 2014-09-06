@@ -93,7 +93,9 @@ On Dell Inspiron, it is fn + f5/f6 to control brightness. Strangely the control 
 
 `lspci | grep VGA`
 
-Generally you could find either Intel or Nvidia. It was Intel for my system. So I followed instructions for Intel fix described in the blog.
+Generally you could find either Intel or Nvidia. It was Intel for my system. So I followed instructions for Intel fix described in the blog. It worked! I could the see the control bar.
+
+<img src="{{ site.baseurl }}/images/brihhtness.png" alt="tweak" /><br />
 
 
 That is all! Time to get started with Ubuntu 14.04!
