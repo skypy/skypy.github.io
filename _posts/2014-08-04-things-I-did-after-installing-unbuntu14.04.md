@@ -2,6 +2,11 @@
 layout: post
 title: Things I did after installing Ubuntu 14.04
 published: true
+description: things to do after Ubuntu40.04 installation
+categories: ubuntu14
+tags:
+- ubuntu14
+- linux
 ---
 
 I have been using Lenevo T410i series laptop for a long time, more than 4 years. It has a strong build quality and good performance.

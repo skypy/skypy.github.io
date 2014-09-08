@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Tata Photon wifi data card for SSH connection
+description: tata photon wifi datacard ip to ip access
+categories: ubuntu14,tata-photon,reverse-tunnel
 published: true
 ---
 
