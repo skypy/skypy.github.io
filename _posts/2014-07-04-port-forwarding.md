@@ -16,6 +16,8 @@ configuration which you can set in the router's admin page. Here is the image re
 
 <img src="{{ site.baseurl }}/images/port-forwarding.png" alt="partition" style="width: 600px; height: 450px "/>
 
+<!--more-->
+
 How to configure this in d-lnk router? Open the the router admin panel in browser and go to Advanced option, there you could see the potion for port forwaridng.
 here you could find what are the values I entered for ssh port forward, that is, forward ssh incoming request (port 22) to the desired internal ip.
 
