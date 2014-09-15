@@ -6,8 +6,10 @@ categories: ubuntu14,tata-photon,reverse-tunnel
 published: true
 ---
 
-I brought a Tata photon wifi data card which is a upgraded version of Tata photn plus. It claims better connectivity than its predecessor. But I dont see a big difference.
-The worst part is that it doesn't have a port forwarding option. And without port forwarding no one can ssh to my system!
+I brought a Tata photon wifi data card which is a upgraded version of Tata photn plus. It claims better connectivity
+than its predecessor. But I dont see a big difference.
+The worst part is that it doesn't have a port forwarding option. And without port forwarding, other users
+can not ssh to my system!
 
 <img src="{{ site.baseurl }}/images/photon.jpg" alt="partition" style="width: 460px; height: 350px "/><br />
 
