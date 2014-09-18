@@ -7,7 +7,7 @@ published: true
 ---
 
 I reinstalled OS to one of my old machine. So I had to setup other softwares on the
-system which includes open-ssh. The problem was that when I tried to login to the system
+system which includes open-ssh. The problem started when I tried to login to the system
 via ssh from a different system.
 
 Here is the message generated in the terminal from the system I was trying to log in.
